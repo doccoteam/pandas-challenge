@@ -1,0 +1,7 @@
+Heroes of Pymoli data analysis
+3 Observable Trends based on the data
+
+1. Men make up the vase majority. But Men spend less per purchase then Women and other. 
+2. Age groups 15-19 and 20-24 are purchasing the most and at the highest Average Purchase price. Their combined Total Purchase Value makes up more than 60% of the Total Revenue. Total Purchase Value for Age Group 20-24 is $1114 that is 3 times more than the Value spent by the Age Group 15-19 and almost 4 times more than the Value spent by the Age Group 25-29 (First, Second and Third places in Total Puchase Value).
+3. The Items "Oathbreaker, Last Hope of the Breaking Storm", "Nirvana" and "Fiery Glass Crusader" are ones of the most popular and the most profitable items.
+However, "the Extraction, Quickblade Of Trembling Hands" and "Pursuit, Cudgel of Necromancy" are very popular, but do not bring income. The established prices are very low. The marketing department should review the pricing of these products.
